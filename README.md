@@ -4,6 +4,8 @@
 
 Turn Twitch chat into a shared universe. Viewers choose a future, contribute a word, and watch their decision reshape the world that the next round inherits. Then the **Butterfly Lens** lets them explore the future they left behind.
 
+**[Watch the 2:38 portfolio demo](https://www.youtube.com/watch?v=2AmdYrgu6e4)** · Real Twitch contributions, two futures, and a world that remembers. Recorded on 3 November 2026, after the hackathon deadline.
+
 ![The Butterfly Lens compares two futures from one shared origin](submission/butterfly-lens.png)
 
 **Post-deadline continuation · 3 November 2026.** This separate [continuation repository](https://github.com/Enrickq/parallax-next) contains work beyond the frozen hackathon version. It has not been substituted into the entry. The submitted repository and video remain unchanged. [Version and evidence status](docs/PROJECT_STATUS.md).

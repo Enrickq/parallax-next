@@ -7,6 +7,7 @@ node_modules/
 coverage/
 video/*.mp4
 video/*.wav
+video/ava/
 video/*.png
 video/*.jpg
 video/LIVE_PROOF.json

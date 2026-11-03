@@ -1,0 +1,160 @@
+1
+00:00:00,000 --> 00:00:04,539
+A message scrolls away. A choice can stay.
+What if your chat
+
+2
+00:00:04,539 --> 00:00:06,430
+could leave a world behind?
+
+3
+00:00:08,000 --> 00:00:13,786
+Here, on EnriEdit's real Twitch chat, it
+begins with something small. One
+
+4
+00:00:13,786 --> 00:00:19,572
+vote for Aurora. One word: hope. Watch
+them arrive. These are real
+
+5
+00:00:19,572 --> 00:00:25,359
+messages reaching PARALLAX. When the two
+futures become one, that choice changes
+
+6
+00:00:25,359 --> 00:00:31,145
+the shared world. One remembered vote. One
+word carried forward. A small
+
+7
+00:00:31,145 --> 00:00:34,520
+beginning... that the next person will
+inherit.
+
+8
+00:00:40,000 --> 00:00:45,578
+Now, a clearly labelled simulation shows
+the experience with a larger crowd.
+
+9
+00:00:45,578 --> 00:00:51,155
+The streamer opens two possible worlds.
+Every viewer gets one vote per
+
+10
+00:00:51,155 --> 00:00:51,620
+round.
+
+11
+00:00:52,000 --> 00:00:56,329
+You do not need to be the loudest person
+in chat. Choose
+
+12
+00:00:56,329 --> 00:01:00,658
+a branch. Leave a word. The same shared
+universe responds on the
+
+13
+00:01:00,658 --> 00:01:01,380
+stream overlay.
+
+14
+00:01:04,000 --> 00:01:11,491
+Reality collapses. One future becomes
+canon, changing the world's harmony,
+memory, and
+
+15
+00:01:11,491 --> 00:01:12,740
+visual DNA.
+
+16
+00:01:12,967 --> 00:01:17,523
+And the future you did not choose? You can
+still see it.
+
+17
+00:01:17,523 --> 00:01:22,080
+The Butterfly Lens calculates both
+outcomes from the same beginning, using
+the
+
+18
+00:01:22,080 --> 00:01:25,877
+same contributions. A way to see what your
+choice meant.
+
+19
+00:01:27,967 --> 00:01:33,363
+Step into the unlived future. This is a
+labelled, read-only preview. It
+
+20
+00:01:33,363 --> 00:01:38,759
+lets the streamer explore a different
+consequence while the shared world and
+
+21
+00:01:38,759 --> 00:01:41,907
+OBS overlay keep the community's chosen
+reality.
+
+22
+00:01:42,133 --> 00:01:47,489
+Someone new arrives. They enter a world
+already changed by people who
+
+23
+00:01:47,489 --> 00:01:52,844
+came before them. Its memory, harmony, and
+visual DNA carry forward into
+
+24
+00:01:52,844 --> 00:01:54,183
+the next round.
+
+25
+00:01:54,400 --> 00:01:59,814
+The latest twelve decisions survive a
+restart. Revisit their shared origins and
+
+26
+00:01:59,814 --> 00:02:05,229
+compare the two outcomes. The community
+can see the history behind its
+
+27
+00:02:05,229 --> 00:02:05,680
+world.
+
+28
+00:02:05,900 --> 00:02:12,132
+OpenAI Codex helped us turn this idea into
+working software: paired futures,
+
+29
+00:02:12,132 --> 00:02:18,364
+the Butterfly Lens, safer chat handling,
+and behavioral tests. These are actual
+
+30
+00:02:18,364 --> 00:02:24,595
+build artifacts. This separate local
+continuation passes twenty-six tests.
+Codex helped build
+
+31
+00:02:24,595 --> 00:02:28,750
+it. Procedural graphics bring the world to
+life.
+
+32
+00:02:28,967 --> 00:02:35,670
+They came to watch. Together... they left
+a world. PARALLAX. A world
+
+33
+00:02:35,670 --> 00:02:36,787
+that remembers.

@@ -27,6 +27,15 @@ The recording is accepted only when a real vote and spark both arrive, the expec
 
 ## Narrate with one selected natural voice
 
+The published 2:38 film uses **Microsoft Ava Neural** throughout. To reproduce the final narration, install the optional `edge-tts` package in your development environment and run:
+
+```powershell
+python scripts/narrate-portfolio.py
+$env:PORTFOLIO_AUDIO_DIR = 'video/ava'
+```
+
+The script sends the written narration to Microsoft's online text-to-speech service and writes local MP3 files. It uses no account credentials and never clones an identified person's voice. This is an optional media tool; the application itself has no Python or speech-service dependency. See the [edge-tts project](https://github.com/rany2/edge-tts) for installation and service availability.
+
 `scripts/portfolio-narration.json` contains eleven segments, exact filenames, minimum scene timing and text. Its planned picture edit runs 2:28. Select a voice through the audio tool before generation. Generate each segment separately with that same voice, then save WAV, MP3, M4A or FLAC under the listed stem in `video/`, or set `PORTFOLIO_AUDIO_DIR` to another audio directory. The assembler does not use the old Microsoft Zira narration as a fallback.
 
 The finished edit preserves the selected voice at its original speed, including its pauses. Before rendering, the assembler measures every supplied audio clip and gives each scene at least its planned duration or the measured speech duration plus 0.2 seconds, whichever is longer. Cuts and subtitle starts are recalculated on a 30 FPS timeline. Simulation and artifact shots may be slowed to fit; the actual Twitch capture always plays at its original speed, with a held final frame only if the narration needs more time. If the result would exceed **179 seconds**, export stops and asks for shorter narration rather than accelerating the voice.

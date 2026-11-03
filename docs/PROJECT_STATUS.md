@@ -8,8 +8,8 @@ This directory is a post-deadline continuation, published separately as [Enrickq
 - Commit: [`a8fdf5ef94c29c2aaad29d0e6198bc87de673f23`](https://github.com/Enrickq/parallax-twitchcon-2026/commit/a8fdf5ef94c29c2aaad29d0e6198bc87de673f23), 2 November 2026 at 20:46 UTC.
 - [GitHub verification passed](https://github.com/Enrickq/parallax-twitchcon-2026/actions/runs/41522272517).
 - The baseline contains the paired futures, Butterfly Lens, authenticated IRC connector, studio, OBS overlay, source instructions and six screenshots. Its original engine/HTTP suite contains 18 tests.
-- Public project page: [PARALLAX on Devpost](https://devpost.com/software/parallax-the-butterfly-effect-of-twitch). The main review task verified the **Submitted** status on 3 November.
-- Submitted video: [PARALLAX demonstration on YouTube](https://www.youtube.com/watch?v=l8p1U61pH5Y), 1:56. The main review task verified playback on the entrant's Enrique channel on 3 November. This is the original simulation rehearsal, not a later real-chat recording.
+- Public project page: [PARALLAX on Devpost](https://devpost.com/software/parallax-the-butterfly-effect-of-twitch). **Submitted** status verified on 3 November.
+- Submitted video: [PARALLAX demonstration on YouTube](https://www.youtube.com/watch?v=l8p1U61pH5Y), 1:56. Playback verified on the entrant's Enrique channel on 3 November. This is the original simulation rehearsal, not a later real-chat recording.
 
 The [organizers' final-weekend notice](https://twitchcon-codex.devpost.com/updates/47341-final-weekend-make-your-project-come-alive) instructs entrants to keep the submitted repository, video and links unchanged until winners are announced and to continue development in a copy. This local clone follows that instruction. A new recording or improved narration must be identified as a later demo; replacing submitted material requires the organizers' permission.
 
@@ -30,4 +30,12 @@ Validation in this copy: **26 tests passed, 0 failed**, using `node --test tests
 - This evidence records an actual post-deadline command path. It does not establish that the new recording was part of the submitted entry, nor does it make the original simulation video a live demonstration. Automated tests and a connected badge remain distinct from command evidence.
 - The actual Codex development session is identified in the [build log](../CODEX_BUILD_LOG.md). The runtime does not call an AI service.
 
-The successful local live-message capture is now verified. No new public video or post-deadline submission change is claimed by this status file.
+## Published portfolio film
+
+The separate [portfolio demonstration](https://www.youtube.com/watch?v=2AmdYrgu6e4) was published publicly on the entrant's Enrique channel on **3 November 2026**. Its duration is **157.97 seconds (2:38)**, at 1600×900 and 30 FPS. YouTube publication and playback were verified. The description and video labels identify its post-deadline status.
+
+The film includes the verified real-message capture, a labelled still of the Twitch messages, a labelled larger-crowd simulation, and an explanation of Codex's contribution using actual build artifacts. It uses the generic **Microsoft Ava Neural** voice; the spoken wording, pauses and scene lengths were prepared for this demonstration, without accelerating the speech. An English subtitle track was uploaded and published in YouTube Studio.
+
+The final MP4 decodes successfully; audio checks found a peak of −1.5 dB and mean level of −17.1 dB.
+
+The original submitted repository, video and Devpost links were preserved. The new video is a separate portfolio publication, not an amendment to the competition entry.

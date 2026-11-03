@@ -29,7 +29,7 @@ The separate `parallax-next` clone imports additional source from the original w
 - Revised setup documentation and a reorganized product README, with old submission preparation notes archived.
 - A clearer “WORLDLINES SAVED” label for the bounded history counter, and documentation of the ten-spark limit.
 
-Validation: `node --test tests/*.test.js` completed with **26 passes and zero failures** on 3 November. This is verification of the local continuation, not a change to the submitted test count. No source or documentation from this copy has been published.
+Validation: `node --test tests/*.test.js` completed with **26 passes and zero failures** on 3 November. This is verification of the continuation, not a change to the submitted test count. The continuation was published separately as [Enrickq/parallax-next](https://github.com/Enrickq/parallax-next), with its own passing GitHub CI.
 
 ## Demonstration evidence
 
@@ -39,6 +39,8 @@ The attempted real-chat capture on 2 November recorded a confirmed public-reader
 
 On **3 November 2026 at 16:41–16:42 UTC**, a new 53-second recording in the separate local continuation accepted **one actual vote and one actual spark** from Twitch `#enriedit`. The observed `!a` vote chose Aurora and `!spark hope` contributed the word `hope`; the committed world had harmony 56, entropy 44, memory 1, words 1 and DNA 222. The Butterfly Lens displayed both calculated outcomes and the real activity feed. A separate screenshot of the Twitch website showed the sent commands.
 
-The local recording's SHA-256 matches its evidence JSON: `38be33048843c50969bd2b72829b55733d626a59bf11fe6905cab1acde72c1c7`. Full FFmpeg decoding and the portfolio assembler's evidence check passed; representative contribution and Lens frames were inspected. This is newly recorded **post-deadline** evidence, not a replacement for or addition to the frozen submission. The new narrated portfolio film has not yet been exported or published.
+The local recording's SHA-256 matches its evidence JSON: `38be33048843c50969bd2b72829b55733d626a59bf11fe6905cab1acde72c1c7`. Full FFmpeg decoding and the portfolio assembler's evidence check passed; representative contribution and Lens frames were inspected. This is newly recorded **post-deadline** evidence, not a replacement for or addition to the frozen submission.
+
+The [new narrated portfolio film](https://www.youtube.com/watch?v=2AmdYrgu6e4) was exported and published separately on 3 November. It runs 157.97 seconds, uses one complete Microsoft Ava Neural voice pass and has an English subtitle track published through YouTube Studio. Final decoding, picture checks, audio levels and public playback were verified. The assembler adjusts scene lengths to the voice while preserving actual Twitch playback and narration at their original speed.
 
 Current version and publication boundaries are recorded in [project status](docs/PROJECT_STATUS.md). Codex is the development tool; the running app uses procedural Canvas rendering and no AI API.

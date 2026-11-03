@@ -1,0 +1,19 @@
+{
+  "title": "PARALLAX — The future your chat left behind",
+  "edition": "Post-deadline portfolio demonstration — 3 November 2026",
+  "durationSeconds": 148,
+  "voiceDirection": "Natural English, intimate, warm and moving. Speak to one person, with quiet wonder and thoughtful pauses, without melodrama or imitation of a real person. Let the closing words breathe. Use one consistent selected voice. Preserve exact spoken words; headings and this direction are not narration.",
+  "segments": [
+    {"file":"portfolio-01-hook.wav","start":0,"duration":8,"text":"A message scrolls away. A choice can stay. What if your chat could leave a world behind?"},
+    {"file":"portfolio-02-live.wav","start":8,"duration":32,"requiresLiveProof":true,"text":"Here, on EnriEdit's real Twitch chat, it begins with something small. One vote for Aurora. One word: hope. Watch them arrive. These are real messages reaching PARALLAX. When the two futures become one, that choice changes the shared world. One remembered vote. One word carried forward. A small beginning... that the next person will inherit."},
+    {"file":"portfolio-03-choice.wav","start":40,"duration":12,"text":"Now, a clearly labelled simulation shows the experience with a larger crowd. The streamer opens two possible worlds. Every viewer gets one vote per round."},
+    {"file":"portfolio-04-signals.wav","start":52,"duration":12,"text":"You do not need to be the loudest person in chat. Choose a branch. Leave a word. The same shared universe responds on the stream overlay."},
+    {"file":"portfolio-05-collapse.wav","start":64,"duration":8,"text":"Reality collapses. One future becomes canon, changing the world's harmony, memory, and visual DNA."},
+    {"file":"portfolio-06-lens.wav","start":72,"duration":15,"text":"And the future you did not choose? You can still see it. The Butterfly Lens calculates both outcomes from the same beginning, using the same contributions. A way to see what your choice meant."},
+    {"file":"portfolio-07-unlived.wav","start":87,"duration":13,"text":"Step into the unlived future. This is a labelled, read-only preview. It lets the streamer explore a different consequence while the shared world and OBS overlay keep the community's chosen reality."},
+    {"file":"portfolio-08-memory.wav","start":100,"duration":12,"text":"Someone new arrives. They enter a world already changed by people who came before them. Its memory, harmony, and visual DNA carry forward into the next round."},
+    {"file":"portfolio-09-history.wav","start":112,"duration":10,"text":"The latest twelve decisions survive a restart. Revisit their shared origins and compare the two outcomes. The community can see the history behind its world."},
+    {"file":"portfolio-10-codex.wav","start":122,"duration":17,"text":"OpenAI Codex helped us turn this idea into working software: paired futures, the Butterfly Lens, safer chat handling, and behavioral tests. These are actual build artifacts. This separate local continuation passes twenty-six tests. Codex helped build it. Procedural graphics bring the world to life."},
+    {"file":"portfolio-11-close.wav","start":139,"duration":9,"text":"They came to watch. Together... they left a world. PARALLAX. A world that remembers."}
+  ]
+}
